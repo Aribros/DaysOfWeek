@@ -1,4 +1,6 @@
 {
+    "name": "Days Of Week App",
+    "description": "Write a function that, given a string input T which represents the day of the week as shown above and an integer Z (0 to 300), will return the day of the week that is Z days later.",
     "autoload": {
         "files": ["index.php"]
     },
