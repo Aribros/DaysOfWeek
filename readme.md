@@ -5,7 +5,7 @@ The days of the week are ("Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun") Write
 ```composer install ```
 
 #### Run test on Windows from project dir
-``` .\vendor\bin\phpunit ```
+``` .\vendor\bin\phpunit tests```
 
 #### Run test on Windows from project dir
-``` ./vendor/bin/phpunit ```
+``` ./vendor/bin/phpunit tests```
